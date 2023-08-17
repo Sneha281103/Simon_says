@@ -1,0 +1,29 @@
+body{
+   text-align: center;
+}
+.div{
+    height:200px;
+    width:200px;
+    border-radius:20%;
+    border:10px solid black;
+    margin:1rem;
+}
+.contanier{
+    display:flex;
+    justify-content: center;
+}
+.yellow{
+    background-color: yellow;
+}
+.purple{
+    background-color:purple;
+}
+.green{
+    background-color:green;
+}
+.pink{
+    background-color:pink;
+}
+.flash{
+    background-color:white;
+}
